@@ -35,4 +35,7 @@ Here's a detailed explanation of how the code works:
 13. The two concatenated images are then concatenated together and displayed.
 
 
-![Alt text](image.png)
+
+
+
+![output image](image.png)
