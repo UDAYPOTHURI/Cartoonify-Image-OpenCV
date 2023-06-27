@@ -7,8 +7,8 @@ This project uses OpenCV to transform an image into a cartoon-like version. It d
 To use this project, you'll need to have OpenCV and NumPy installed. You can install them using pip:
 
 pip install opencv-python
-pip install numpy
 
+pip install numpy
 
 You'll also need to download the `Cartoonify-Image-OpenCV.ipynb` file from the GitHub repository. You can do this by clicking on the "Code" button on the repository page and selecting "Download ZIP". Once you've downloaded and unzipped the file, you can open it in a Jupyter notebook.
 
@@ -33,9 +33,5 @@ Here's a detailed explanation of how the code works:
 11. Text is added to the concatenated image using `cv2.putText()`.
 12. The same process is repeated for the cartoonified image.
 13. The two concatenated images are then concatenated together and displayed.
-
-
-
-
 
 ![output image](image.png)
