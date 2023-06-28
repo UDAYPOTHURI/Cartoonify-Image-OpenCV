@@ -4,9 +4,11 @@ This project uses OpenCV to transform an image into a cartoon-like version. It d
 
 ## Installation
 
-To use this project, you'll need to have OpenCV and NumPy installed. You can install them using pip:
+To use this project, you'll need to have OpenCV, Urllib3 and NumPy installed. You can install them using pip:
 
 pip install opencv-python
+
+pip install urllib3
 
 pip install numpy
 
